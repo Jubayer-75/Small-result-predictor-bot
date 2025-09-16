@@ -1,0 +1,11 @@
+
+Input your study hours & sleep hours, and bot will show your result 😁
+
+---
+
+## Features
+
+- Simple ML model (scikit-learn)
+- Predict pass/fail
+- Cute & easy for beginners
+- If you fail, you will get a small tip
